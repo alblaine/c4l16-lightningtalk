@@ -5,4 +5,4 @@ Disclaimer: the percentages reported in this talk are approximate and are based 
 
 In my talk, I referencd an NPR story on a recent study from the National University of Singapore. That [story can be found here](http://www.npr.org/2016/03/01/468751715/how-does-gender-affect-ones-willingness-to-compete). 
 
-There will likely be a link to the talk on here at some point, when it is posted by the conference. The recording will provide more context for the slides. Thank you!
+Here is the [YouTube link for the talk](https://www.youtube.com/watch?v=pSlJr8L8dpA). Mine starts at 29:53. The recording will provide more context for the slides. Thank you!
