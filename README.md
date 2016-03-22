@@ -1,5 +1,5 @@
 # c4l16 Lightning Talk Slides & Video link
-Here are slides from my lightning talk for C4L 2016 in Philadelphia, PA. I have edited them slightly by adding references where needed.
+Here are slides from my lightning talk for C4L 2016 in Philadelphia, PA, titled, "Code+Art: Expanding Creative Coding Opportunities at NCSU Libraries." I have edited them slightly by adding references where needed.
 
 Disclaimer: the percentages reported in this talk are approximate and are based on small, local events. They are **not reproducible or generalizable**. Please do not cite them as if they were.
 
